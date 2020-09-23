@@ -10,7 +10,7 @@ module.exports = {
     "Alfa Laval": {
         luck: 4,
         total: 17,
-        fall: -2.5
+        fall: -2.5,
         day: 4,
         sellAt: 0.025
     },
