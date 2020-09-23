@@ -10,14 +10,14 @@ module.exports = {
     "Alfa Laval": {
         luck: 4,
         total: 17,
-        fall: -0.5, // -2.5
+        fall: -2.5
         day: 4,
         sellAt: 0.025
     },
     "ASSA ABLOY B": {
         luck: 7,
         total: 12,
-        fall: -0.5,//-3,
+        fall: -3,
         day: 3,
         sellAt: 0.06
     },
@@ -45,7 +45,7 @@ module.exports = {
     "Autoliv SDB": {
         luck: 3,
         total: 6,
-        fall: -1,//-4,
+        fall: -4,
         day: 6,
         sellAt: 0.06
     },
