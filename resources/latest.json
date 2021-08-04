@@ -1,0 +1,71 @@
+{
+    "orderbookId": "861431",
+    "name": "Epiroc B",
+    "isin": "SE0015658117",
+    "sectorName": "Industri",
+    "tradable": "BUYABLE_AND_SELLABLE",
+    "listing": {
+        "shortName": "EPI B",
+        "tickerSymbol": "EPI B",
+        "countryCode": "SE",
+        "currency": "SEK",
+        "marketPlaceCode": "XSTO",
+        "marketPlaceName": "Stockholmsbörsen",
+        "marketListName": "Large Cap Stockholm",
+        "tickSizeListId": "36",
+        "marketTradesAvailable": true
+    },
+    "keyIndicators": {
+        "numberOfOwners": 15547,
+        "directYield": 0.0144,
+        "volatility": 0.2343,
+        "priceEarningsRatio": 34.84,
+        "priceSalesRatio": 5.69,
+        "marketCapital": {
+            "value": 233401979126.30,
+            "currency": "SEK"
+        },
+        "equityPerShare": {
+            "value": 17.32,
+            "currency": "SEK"
+        },
+        "turnoverPerShare": {
+            "value": 30.51,
+            "currency": "SEK"
+        },
+        "earningsPerShare": {
+            "value": 4.98,
+            "currency": "SEK"
+        },
+        "dividend": {
+            "exDate": "2021-10-27",
+            "paymentDate": "2021-11-02",
+            "amount": 1.25,
+            "currencyCode": "SEK",
+            "exDateStatus": "FUTURE"
+        },
+        "dividendsPerYear": 2,
+        "nextReport": {
+            "date": "2021-10-21",
+            "reportType": "INTERIM"
+        },
+        "previousReport": {
+            "date": "2021-07-20",
+            "reportType": "INTERIM"
+        }
+    },
+    "quote": {
+        "last": 172.15,
+        "highest": 174.15,
+        "lowest": 170.80,
+        "change": -1.35,
+        "changePercent": -0.78,
+        "timeOfLast": 1628004594000,
+        "totalValueTraded": 52856783.35,
+        "totalVolumeTraded": 306906,
+        "updated": 1628004594183,
+        "volumeWeightedAveragePrice": 172.22
+    },
+    "previousClosingPrice": 173.50,
+    "type": "STOCK"
+}
