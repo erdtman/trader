@@ -1,7 +1,7 @@
 <template>
   <div class="container scroll"  >
     <div>
-      <h1>Aktie utmaning!</h1>
+      <h1>Aktie utmaningen!</h1>
         <div v-if="data !== null && data.state === 'GO_GO_GO'">
           <Member
             v-for="item in data.list"
