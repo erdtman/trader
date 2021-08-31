@@ -5,102 +5,103 @@ module.exports.family = [
         name: "Samuel",
         stocks:[
             {
-                "name": "ABB Ltd",
-                "id" : 5447,
-                "buyPrice" : 200
+                "name": "3M Co",
+                "id" : 3527,
+                "buyPrice" : 194.59
             }, {
-                "name":"Alfa Laval",
-                "id": 5580,
-                "buyPrice" : 200
+                "name":"Gilead Sciences Inc",
+                "id": 4014,
+                "buyPrice" : 72.78
             }, {
-                "name":"ASSA ABLOY B",
-                "id": 5271,
-                "buyPrice" : 200
+                "name":"Whirlpool Corp",
+                "id": 3890,
+                "buyPrice" : 221.23
             }
         ]
     }, {
         name: "Charlotte",
         stocks:[
             {
-                "name": "AstraZeneca",
-                "id" : 5331,
-                "buyPrice" : 200
+                "name": "Ericsson B",
+                "id" : 5240,
+                "buyPrice" : 102.30
             }, {
-                "name":"Atlas Copco A",
-                "id": 5234,
-                "buyPrice" : 200
+                "name": "Thule Group",
+                "id" : 521491,
+                "buyPrice" : 471.00
             }, {
-                "name":"Autoliv SDB",
-                "id": 5236,
-                "buyPrice" : 200
+                "name": "NIBE Industrier B",
+                "id" : 5325,
+                "buyPrice" : 120.30
             }
+
         ]
     }, {
         name: "Åsa",
         stocks:[
             {
-                "name": "Boliden",
-                "id" : 5564,
-                "buyPrice" : 200
+                "name": "Avanza Bank Holding",
+                "id" : 5361,
+                "buyPrice" : 331.60
             }, {
-                "name":"Electrolux B",
-                "id": 5238,
-                "buyPrice" : 200
+                "name":"HMS Networks",
+                "id": 98412,
+                "buyPrice" : 451.00
             }, {
-                "name":"Ericsson B",
-                "id": 5240,
-                "buyPrice" : 200
+                "name":"SECTRA B",
+                "id": 5426,
+                "buyPrice" : 872.00
             }
         ]
     }, {
         name: "Sven-Göran",
         stocks:[
             {
-                "name": "Getinge B",
-                "id" : 5282,
-                "buyPrice" : 200
+                "name": "Bure Equity",
+                "id" : 5277,
+                "buyPrice" : 402.40
             }, {
-                "name":"Hennes & Mauritz",
-                "id": 5364,
-                "buyPrice" : 200
+                "name":"Lundin Mining Corporation",
+                "id": 7010,
+                "buyPrice" :  69.25
             }, {
-                "name":"Hexagon B",
-                "id": 5286,
-                "buyPrice" : 200
+                "name":"Sivers Semiconductors",
+                "id": 804998,
+                "buyPrice" : 25.60
             }
         ]
     }, {
         name: "Elias",
         stocks:[
             {
-                "name": "Investor B",
-                "id" : 5447,
-                "buyPrice" : 200
+                "name": "Embracer Group B",
+                "id" : 707695,
+                "buyPrice" : 195.80
             }, {
-                "name":"Kinnevik B",
-                "id": 5369,
-                "buyPrice" : 200
+                "name":"Samhällsbyggnadsbo. i Norden B",
+                "id": 517316,
+                "buyPrice" : 49.29
             }, {
-                "name":"Nordea Bank Abp",
-                "id": 5249,
-                "buyPrice" : 200
+                "name":"SSAB B",
+                "id": 5261,
+                "buyPrice" : 41.03
             }
         ]
     }, {
         name: "Benjamin",
         stocks:[
             {
-                "name": "Sandvik",
-                "id" : 5471,
-                "buyPrice" : 200
+                "name": "LightAir",
+                "id" : 103487,
+                "buyPrice" :2.25
             }, {
-                "name":"SCA B",
-                "id": 5263,
-                "buyPrice" : 200
+                "name":"Invajo Technologies",
+                "id": 1093879,
+                "buyPrice" :6.00
             }, {
-                "name":"Securitas B",
-                "id": 5270,
-                "buyPrice" : 200
+                "name":"ServiceNow Inc",
+                "id": 361180,
+                "buyPrice" : 643.10
             }
         ]
     }
