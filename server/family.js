@@ -50,7 +50,7 @@ module.exports.family = [
             }, {
                 "name":"SECTRA B",
                 "id": 5426,
-                "buyPrice" : 872.00
+                "buyPrice" : 174.4
             }
         ]
     }, {
