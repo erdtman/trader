@@ -76,7 +76,7 @@ module.exports.family = [
             {
                 "name": "Embracer Group B",
                 "id" : 707695,
-                "buyPrice" : 195.80
+                "buyPrice" : 97.9
             }, {
                 "name":"Samhällsbyggnadsbo. i Norden B",
                 "id": 517316,
